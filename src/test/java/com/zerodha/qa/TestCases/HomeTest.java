@@ -70,4 +70,6 @@ public class HomeTest extends TestBase {
 	public void tearDown() {
 		driver.quit();
 	}
+
+// this is the perfect code
 }
